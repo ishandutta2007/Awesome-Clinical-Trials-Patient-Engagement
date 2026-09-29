@@ -53,9 +53,9 @@ The following enterprise clinical trial software platforms are sorted in descend
 
 ## 🔓 Open-Source GitHub Projects
 
-Below is a curated collection of active open-source clinical trial patient engagement tools, ePRO frameworks, and clinical research tools, sorted by GitHub star count in descending order.
+Below is a curated collection of active open-source clinical trial patient engagement tools, ePRO frameworks, and clinical research tools, sorted by GitHub Stars_Count in descending order.
 
-| Project & Repository | Stars | License | Key Features | Tech Stack |
+| Project & Repository | GitHub_Stars | License | Key Features | Tech Stack |
 | :--- | :--- | :--- | :--- | :--- |
 | **[OpenClinica](https://github.com/OpenClinica/OpenClinica)** 📊<br>[<img src="https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white" alt="OpenClinica Stars"/>](https://github.com/OpenClinica/OpenClinica/stargazers) | [![Stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers) | LGPL-2.1 | **Participate ePRO Module**: Zero-friction patient surveys via web/mobile without app downloads. Automated SMS/email reminders. | Java, PostgreSQL, AngularJS |
 | **[AdEPro](https://github.com/Bayer-Group/AdEPro)** 🎨<br>[<img src="https://img.shields.io/github/stars/Bayer-Group/AdEPro?style=social&color=white" alt="AdEPro Stars"/>](https://github.com/Bayer-Group/AdEPro/stargazers) | [![Stars](https://img.shields.io/github/stars/Bayer-Group/AdEPro?style=social&color=white)](https://github.com/Bayer-Group/AdEPro/stargazers) | GPL-3.0 | **Adverse Event Animation**: Audio-visual patient safety monitoring app developed by Bayer for clinical trial side-effect visualization. | R, Shiny, CDISC ADaM |
