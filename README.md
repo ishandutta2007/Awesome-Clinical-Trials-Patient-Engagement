@@ -1,189 +1,104 @@
-# Awesome-Clinical-Trials-Patient-Engagement
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Clinical Trials Patient Engagement Banner" width="100%">
+</p>
 
-## Top Patient Engagement (Clinical Trials) Platforms Ecosystem
+# 🏥 Awesome Clinical Trials Patient Engagement 🧪
 
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement?style=flat-square" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement?style=flat-square" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement?style=flat-square" alt="Issues"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+## 🌟 Ecosystem Overview & Industry Insights 💡
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+Welcome to the ultimate curated list of **SaaS platforms** and **open-source GitHub projects** for **Patient Engagement in Clinical Trials**, **ePRO/eCOA (electronic Patient-Reported Outcomes / Clinical Outcome Assessment)**, and **Decentralized Clinical Trials (DCTs)**.
 
-*Focused on Patient Retention, ePRO/eCOA, Remote Monitoring & Decentralized Trial Participation*  
+> [!IMPORTANT]
+> **Market Size & Structure**: The global **Patient Engagement in Clinical Trials & Recruitment** market size is estimated at **$4.49 Billion in 2026** (part of the broader $30.4B Patient Engagement Solutions market) and is projected to expand significantly by 2035. The sector is currently **highly fragmented**, featuring specialized software for ePRO/eCOA, telehealth, and symptom tracking alongside large Contract Research Organization (CRO) suites.
 
-**Last updated: September 2026**
+---
 
+## 📋 Table of Contents 🗂️
 
+- [💼 SaaS/Hosted Platforms](#-saashosted-platforms)
+- [🔓 Open-Source GitHub Projects](#-open-source-github-projects)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
+- [📈 Star History](#-star-history)
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Patient Engagement in Clinical Trials**. These tools help sponsors, CROs, and research sites keep participants informed, compliant, and connected throughout the trial lifecycle — from recruitment through retention — using mobile apps, ePRO/eCOA, remote monitoring, and secure communication channels.
+---
 
+## 💼 SaaS/Hosted Platforms
 
+The following enterprise clinical trial software platforms are sorted in descending order by company valuation/revenue size.
 
-**Examples** include Medable, THREAD Science, Science 37, Castor, Clario, Signant Health, YPrime, ObvioHealth, Curebase, and Florence Healthcare (the category leaders).
+| Platform | Valuation / Size | Starting Pricing | Free Tier / Trial Limit | Key Capabilities |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Clario](https://clario.com/)** 🏢 | **~$8.9B Valuation** ($1.2B+ Revenue) | **$15,000 / study** starting license | No free tier; **Demo access only** via sales consultation | Enterprise eCOA, ePRO, wearable integrations, cardiac safety, and precision clinical endpoints. |
+| **[Medable](https://www.medable.com/)** 🦄 | **$2.1B Valuation** ($73.5M Est. Revenue) | **$10,000 / study** portfolio package | No software free trial; **Free learning trial** via Medable Academy certification | Decentralized trial (DCT) platform, BYOD eCOA, eConsent, and remote patient monitoring. |
+| **[Florence Healthcare](https://florencehc.com/)** 🏥 | **~$120M Funding** ($50M+ Revenue) | **$500 / month** per site | **14-day free trial** for site document portal module | Site-centric clinical trial workflow, patient eConsent, eBinders, and participant communication. |
+| **[Science 37](https://www.science37.com/)** 🌐 | **$38M Acquisition** ($59M Revenue) | **$8,000 / study** deployment | No free plan; **Guided sandbox trial** upon enterprise demo request | Metasite unified virtual trial OS, telemedicine, eConsent, ePRO, and remote mobile nurse dispatch. |
+| **[Castor](https://www.castoredc.com/)** 📊 | **~$65M Funding** ($38.5M Est. Revenue) | **$250 / month** (Academic/Small Study) | **14-day full feature trial** (No permanent free tier) | Cloud EDC, ePRO/eCOA, eConsent, randomization, and patient engagement mobile apps. |
+| **[ObvioHealth](https://www.obviohealth.com/)** 📱 | **~$31M Funding** ($15M Est. Revenue) | **$5,000 / study** baseline | No free tier; **Custom pilot study trial** available upon request | Direct-to-patient decentralized clinical trial platform with claim validation and digital biomarkers. |
+| **[YPrime](https://www.yprime.com/)** ⚡ | **~$19.6M Funding** ($12M Est. Revenue) | **$6,000 / study** base tier | No free tier; **Interactive demo environment** upon request | Interactive Response Technology (IRT), eCOA, ePRO, and rapid clinical trial data management. |
+| **[Curebase](https://www.curebase.com/)** 🩺 | **~$57.6M Funding** ($8M–$17.7M Revenue) | **$4,000 / study** startup package | No free plan; **30-day sandbox trial** for qualified sponsors | Decentralized & hybrid clinical trial platform with ePRO, virtual coordinator tools, and eConsent. |
+| **[THREAD Science](https://www.threadresearch.com/)** 🔬 | **Private PE-backed** (~$30M Est. Revenue) | **$7,500 / study** core module | No public free trial; **Sandbox environment** provided during onboarding | Turnkey DCT architecture with adaptive eCOA, telehealth visits, and sensor data capture. |
+| **[Signant Health](https://www.signanthealth.com/)** 📝 | **Private Enterprise** (~$10M+ Revenue) | **$12,000 / study** deployment | No free tier; **Demo walk-through** available on demand | Deep eCOA instrument licensing, global linguistic validation, Smart Signals, and patient retention. |
 
+---
 
+## 🔓 Open-Source GitHub Projects
 
-**Open-source emphasis**: Clinical trial patient engagement has a **small but meaningful open-source ecosystem**. **PROACT 2.0** is a purpose-built open-source patient-doctor communication app developed for cancer trials . **Arcwell** is an open-source clinical research platform that has powered real trials at Penn Medicine and handles 4,000+ custom clinical rules . **OpenClinica Participate** provides integrated ePRO/eCOA without requiring app downloads . **REDCap + MyCap** offers a free participant-facing mobile app for non-profit research . This section documents these self-hostable solutions and their practical applications.
+Below is a curated collection of active open-source clinical trial patient engagement tools, ePRO frameworks, and clinical research tools, sorted by GitHub star count in descending order.
 
+| Project & Repository | Stars | License | Key Features | Tech Stack |
+| :--- | :--- | :--- | :--- | :--- |
+| **[OpenClinica](https://github.com/OpenClinica/OpenClinica)** 📊<br>[<img src="https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white" alt="OpenClinica Stars"/>](https://github.com/OpenClinica/OpenClinica/stargazers) | [![Stars](https://img.shields.io/github/stars/OpenClinica/OpenClinica?style=social&color=white)](https://github.com/OpenClinica/OpenClinica/stargazers) | LGPL-2.1 | **Participate ePRO Module**: Zero-friction patient surveys via web/mobile without app downloads. Automated SMS/email reminders. | Java, PostgreSQL, AngularJS |
+| **[AdEPro](https://github.com/Bayer-Group/AdEPro)** 🎨<br>[<img src="https://img.shields.io/github/stars/Bayer-Group/AdEPro?style=social&color=white" alt="AdEPro Stars"/>](https://github.com/Bayer-Group/AdEPro/stargazers) | [![Stars](https://img.shields.io/github/stars/Bayer-Group/AdEPro?style=social&color=white)](https://github.com/Bayer-Group/AdEPro/stargazers) | GPL-3.0 | **Adverse Event Animation**: Audio-visual patient safety monitoring app developed by Bayer for clinical trial side-effect visualization. | R, Shiny, CDISC ADaM |
+| **[Clinical-Trial-Parser](https://github.com/facebookresearch/Clinical-Trial-Parser)** 🤖<br>[<img src="https://img.shields.io/github/stars/facebookresearch/Clinical-Trial-Parser?style=social&color=white" alt="Clinical-Trial-Parser Stars"/>](https://github.com/facebookresearch/Clinical-Trial-Parser/stargazers) | [![Stars](https://img.shields.io/github/stars/facebookresearch/Clinical-Trial-Parser?style=social&color=white)](https://github.com/facebookresearch/Clinical-Trial-Parser/stargazers) | CC-BY-NC-4.0 | **Eligibility Criteria Parser**: NLP tool by Meta Research to parse clinical trial criteria for automated patient-trial matching. | Python, PyTorch, NLP |
+| **[TrialGPT](https://github.com/ncbi-nlp/TrialGPT)** 🧠<br>[<img src="https://img.shields.io/github/stars/ncbi-nlp/TrialGPT?style=social&color=white" alt="TrialGPT Stars"/>](https://github.com/ncbi-nlp/TrialGPT/stargazers) | [![Stars](https://img.shields.io/github/stars/ncbi-nlp/TrialGPT?style=social&color=white)](https://github.com/ncbi-nlp/TrialGPT/stargazers) | MIT | **AI Patient-Trial Matching**: NIH/NCBI benchmark for matching clinical trial eligibility with patient records using LLMs. | Python, OpenAI API, Transformers |
+| **[OpenStudyBuilder](https://github.com/NovoNordisk-OpenSource/OpenStudyBuilder)** 🏗️<br>[<img src="https://img.shields.io/github/stars/NovoNordisk-OpenSource/OpenStudyBuilder?style=social&color=white" alt="OpenStudyBuilder Stars"/>](https://github.com/NovoNordisk-OpenSource/OpenStudyBuilder/stargazers) | [![Stars](https://img.shields.io/github/stars/NovoNordisk-OpenSource/OpenStudyBuilder?style=social&color=white)](https://github.com/NovoNordisk-OpenSource/OpenStudyBuilder/stargazers) | MIT | **Clinical Protocol & eCOA Builder**: Novo Nordisk's open platform to define end-to-end clinical study specs and patient tasks. | Python, Neo4j, Vue.js, FastAPI |
+| **[Arcwell](https://github.com/arcweb/arcwell)** ⚙️<br>[<img src="https://img.shields.io/github/stars/arcweb/arcwell?style=social&color=white" alt="Arcwell Stars"/>](https://github.com/arcweb/arcwell/stargazers) | [![Stars](https://img.shields.io/github/stars/arcweb/arcwell?style=social&color=white)](https://github.com/arcweb/arcwell/stargazers) | Apache-2.0 | **Clinical Rules Engine & eCOA**: Production-proven clinical research platform powering 4,000+ custom rules at Penn Medicine. | TypeScript, Node.js, PostgreSQL |
+| **[PROACT 2.0](https://github.com/Proact2)** 💬<br>[<img src="https://img.shields.io/github/stars/Proact2?style=social&color=white" alt="PROACT 2.0 Stars"/>](https://github.com/Proact2/stargazers) | [![Stars](https://img.shields.io/github/stars/Proact2?style=social&color=white)](https://github.com/Proact2/stargazers) | MPL-2.0 | **Patient-Doctor Oncology App**: Secure text, audio & video communication between cancer patients and clinicians in trials. | .NET 6, C#, React.js, Xamarin |
+| **[REDCap + MyCap Framework](https://projectredcap.org/)** 📱<br>[<img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement?style=social&color=white" alt="REDCap Stars"/>](https://github.com/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement/stargazers) | [![Stars](https://img.shields.io/github/stars/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement?style=social&color=white)](https://github.com/ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement/stargazers) | Consortium / Free | **Participant Mobile App**: Free patient-facing mobile application for non-profit research, offline active tasks & ePRO. | Swift, Kotlin, PHP API |
 
+---
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+## 🤝 How to Contribute 🚀
 
+Contributions are welcome! Help us maintain the most comprehensive index for clinical trial patient engagement tools:
 
+1. 🍴 **Fork** the repository.
+2. 📝 **Add/Edit** entries in `README.md` following the tabular layout.
+3. 🔒 Ensure descriptions are objective and link to official sources.
+4. 📬 Submit a **Pull Request** with details of your additions.
 
-## Table of Contents
+Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
 
+---
 
+## 💖 Support & Sponsorship ☕
 
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
+If you find this repository useful for your research, clinical operations, or healthcare technology stack:
 
-- [Open-Source GitHub Projects](#open-source-github-projects)
+- ⭐ **Star** this repository to show your support!
+- 🔀 **Fork** it to keep a copy for your team.
+- 📣 **Share** with colleagues in clinical research & healthtech.
+- ☕ **Buy me a coffee**: Support ongoing open-source curation on our [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)!
 
-- [How to Contribute](#how-to-contribute)
+---
 
-- [Disclaimer](#disclaimer)
+## ⚠️ Disclaimer 📜
 
+- This list is **community-curated** for information purposes and does not constitute an endorsement.
+- Clinical trial tools handling sensitive personal and health data must strictly adhere to regulatory standards including **21 CFR Part 11, ICH-GCP, HIPAA, and GDPR**.
 
+---
 
-## SaaS/Hosted Platforms
+## 📈 Star History
 
-
-
-- **[Medable](https://www.medable.com/)**  
-
-  Decentralized clinical trial platform with eConsent, ePRO, eCOA, and remote data collection. Supports BYOD (bring your own device) and patient-centric trial design. Approximately 1 million patients enrolled .
-
-
-
-- **[THREAD Science](https://www.threadresearch.com/)**  
-
-  Decentralized clinical trial platform with ePRO, eCOA, remote patient monitoring, and virtual visit tools. Focused on bringing clinical research into patient homes.
-
-
-
-- **[Science 37](https://www.science37.com/)**  
-
-  Metasite unified platform for virtual clinical trials. Enables remote participation through eConsent, ePRO, telemedicine, and scheduling in a single app-based experience.
-
-
-
-- **[Castor](https://www.castoredc.com/)**  
-
-  Clinical research platform with eConsent, ePRO, and decentralized trial tools. Approximately 7 million patients and 147,000 users . Mobile-compatible tools for remote participation and strong patient engagement .
-
-
-
-- **[Clario](https://clario.com/)**  
-
-  Clinical endpoint technology provider with eCOA, ePRO, and cardiac safety solutions. Formed from ERT and Bioclinica merger.
-
-
-
-- **[Signant Health](https://www.signanthealth.com/)**  
-
-  Clinical outcome assessment specialist with eCOA, eConsent, and ePRO. Deep expertise in instrument design and linguistic validation.
-
-
-
-- **[YPrime](https://www.yprime.com/)**  
-
-  eClinical technology platform with eCOA, ePRO, IRT, and clinical data management. Known for rapid deployment and flexible solutions.
-
-
-
-- **[ObvioHealth](https://www.obviohealth.com/)**  
-
-  Decentralized clinical trial platform focused on patient engagement and remote data collection.
-
-
-
-- **[Curebase](https://www.curebase.com/)**  
-
-  Decentralized clinical trial platform with eConsent, ePRO, and telemedicine capabilities.
-
-
-
-- **[Florence Healthcare](https://florencehc.com/)**  
-
-  Site-focused platform for clinical trial document management and patient engagement.
-
-
-
-## Open-Source GitHub Projects
-
-
-
-- **[PROACT 2.0](https://github.com/Proact2)**  
-
-  **The most purpose-built open-source patient engagement tool for clinical trials.** Developed at Fondazione IRCCS Istituto Nazionale Tumori in Milan, in collaboration with The Christie (Manchester), within the UpSMART Accelerator project . A mobile and web application for **secure, non-urgent communication** between patients and healthcare providers in cancer trials. Supports **text, audio, and video messaging**, allowing patients to report adverse events and side effects while enabling medical teams to collect PRO data . Includes **questionnaire and survey submission** via Analyst Console for research purposes . **Multilingual** (Italian, English, German, French, Spanish, Dutch). Tested in a feasibility study with 15 phase I patients at Istituto Nazionale dei Tumori, with high satisfaction reported . Planned for use in a multicentric trial (CCE-DART, Horizon 2020) across cancer centers in UK, Spain, France, Germany, and Netherlands . Tech stack: .NET6, C#, Xamarin, React.js. **Mozilla Public License 2.0**. Full code available at github.com/Proact2 .
-
-
-
-- **[Arcwell](https://github.com/arcweb/arcwell)**  
-
-  **Open-source clinical research platform with proven production deployments.** Released by Arcweb Technologies in October 2024 . Enables healthcare organizations to **design, build, and deploy clinical trials and wellness protocols** using a robust rules engine for autonomous clinical operations . Supports **eCOA and ePRO collection within an EDC system** — studies can graduate on the same infrastructure . **Successfully implemented at two healthcare institutions**: Researchers at Perelman School of Medicine (University of Pennsylvania) used Arcwell for a clinical trial evaluating a patient navigation tool for antepartum anemia; another healthcare organization built a custom decision support tool on Arcwell handling **4,000+ custom clinical rules** . Data model centers on **Facts, FactTypes, People, Resources, and Events** with configurable dimension schemas for different data types (blood pressure readings, emotion journals, survey responses, PROs, device readings) . **Apache 2.0 license** . Vendor lock-in and total cost of ownership drastically reduced .
-
-
-
-- **[OpenClinica Participate](https://github.com/OpenClinica/OpenClinica)**  
-
-  **Integrated ePRO/eCOA module within OpenClinica EDC** — no separate system to manage . Features **zero friction for participants**: no app to download, no username/password to remember. Participants access their dashboard securely from any device (BYOD) . Supports **rich media** (images, video, visual analog scales, interactive elements). **Automated text and email reminders** keep participants on track . Patient-reported data flows directly into the study database in real time with **no manual entry or transcription errors** . **Single checkbox** switches between eCRF and eCOA forms in the same system . **Complete audit trail** capturing patient, clinician, and study team activity in a single view. HIPAA-compliant . Trusted by 1,500+ sponsors, CROs, and research sites worldwide . **Open-source community edition available**; enterprise module may require licensing .
-
-
-
-- **[REDCap + MyCap](https://projectredcap.org/)**  
-
-  **Free participant-facing mobile app for non-profit research.** **MyCap** is a customizable app available at no cost to REDCap users . Provides a **centralized study "home"** for participants with messaging, reminders, and access to study information . Participants can **submit data, complete tasks, send/receive messages, and locate study contact information** . Supports **active tasks** using device sensors (e.g., finger tapping for Parkinson's assessment) . **Offline data collection** with automatic sync when connectivity returns . Participants join via QR code or App Link. Available on iOS and Android. **The REDCap Mobile App** (for data collectors) complements MyCap (for participants) . **REDCap itself is free for non-profit organizations** through the REDCap Consortium. Used by 6,000+ institutions in 150+ countries.
-
-
-
-- **[REDCap Patient-Facing Technology (PFT) Framework](https://europepmc.org/articles/PMC12150733)**  
-
-  **Documented architecture for building patient-facing tools on REDCap.** Published in 2025, this work describes the design of a PFT based on REDCap for cancer patients to self-track medication concerns and symptoms during care transitions . Leverages **branching logic, piping, smart variables, alerts & notifications, file repository, action tags, field embedding, and API integration** to create a dynamic, user-friendly patient experience . Example: medication and symptom tracking form where severity options for diarrhea only appear if patient selects "Diarrhea" as a symptom — reducing reporting burden . Connects REDCap to **Google Looker Studio** via API for automated data visualization . Provides guidance for developers building sustainable PFT architectures .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **Patient-Doctor Communication**: **PROACT 2.0** (purpose-built for cancer trials, text/audio/video messaging) .
-
-- **Full Clinical Research Platform**: **Arcwell** (production-proven, Apache 2.0, eCOA/ePRO within EDC) .
-
-- **Integrated ePRO within EDC**: **OpenClinica Participate** (zero-friction BYOD, no app required) .
-
-- **REDCap Ecosystem**: **MyCap** (free participant app), **REDCap PFT Framework** (documented architecture for patient-facing tools) .
-
-- **PharmaLedger / OpenDSU**: Blockchain-based open-source platform for eConsent, clinical trial recruitment, and patient-controlled data sharing .
-
-
-
-**Frameworks for building custom systems**: Combine **PROACT 2.0** for patient-provider communication in oncology trials, **Arcwell** for a complete clinical research platform with eCOA/ePRO and rules engine, **OpenClinica Participate** for zero-friction ePRO integrated with EDC, and **REDCap + MyCap** for free participant-facing mobile data collection. Add **PostgreSQL/MySQL** for persistence and **Docker** for deployment.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Patient engagement platforms handle sensitive clinical trial and patient data; ensure compliance with 21 CFR Part 11, ICH-GCP, HIPAA, GDPR, and applicable regional regulations.
-
-- **Open-source reality**: The open-source ecosystem for clinical trial patient engagement is **small but growing**. **PROACT 2.0** and **Arcwell** are production-proven and actively used in real trials . **OpenClinica Participate** and **REDCap/MyCap** provide mature, integrated ePRO/eCOA capabilities . However, commercial platforms (Medable, THREAD, Science 37) offer broader decentralized trial orchestration, global support infrastructure, and comprehensive patient services that open-source alternatives cannot match without significant institutional investment.
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Clinical-Trials-Patient-Engagement&type=date&legend=top-left)
